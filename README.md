@@ -34,8 +34,10 @@ Change directory to the project directory, and start the server :
 ```
 # install dependencies
 npm install --global yarn
+
 # install dependencies
 npm install axios
+
 # install dependencies
 npm install
 
