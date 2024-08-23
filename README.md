@@ -32,10 +32,14 @@ It requires [Node.js](https://nodejs.org/)  to run.
 Change directory to the project directory, and start the server :
 
 ```sh
+# install dependencies
 npm install --global yarn
 npm install axios
 npm install
-yarn start
+
+# build for production and launch server
+$ yarn start
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
