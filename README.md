@@ -31,10 +31,12 @@ It requires [Node.js](https://nodejs.org/)  to run.
 
 Change directory to the project directory, and start the server :
 
-```bash
+```
 # install dependencies
 $ npm install --global yarn
+# install dependencies
 $ npm install axios
+# install dependencies
 $ npm install
 
 # build for production and launch server
@@ -45,7 +47,7 @@ $ yarn start
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 
 if already port-3000 is using, just kill the server and retry  it :
-```sh
+```
 npx kill-port 3000
 yarn start
 ```
