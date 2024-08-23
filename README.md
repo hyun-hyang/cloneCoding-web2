@@ -33,14 +33,14 @@ Change directory to the project directory, and start the server :
 
 ```
 # install dependencies
-$ npm install --global yarn
+npm install --global yarn
 # install dependencies
-$ npm install axios
+npm install axios
 # install dependencies
-$ npm install
+npm install
 
 # build for production and launch server
-$ yarn start
+yarn start
 
 ```
 
