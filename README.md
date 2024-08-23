@@ -33,9 +33,9 @@ Change directory to the project directory, and start the server :
 
 ```sh
 # install dependencies
-npm install --global yarn
-npm install axios
-npm install
+$ npm install --global yarn
+$ npm install axios
+$ npm install
 
 # build for production and launch server
 $ yarn start
