@@ -31,7 +31,7 @@ It requires [Node.js](https://nodejs.org/)  to run.
 
 Change directory to the project directory, and start the server :
 
-```sh
+```bash
 # install dependencies
 $ npm install --global yarn
 $ npm install axios
